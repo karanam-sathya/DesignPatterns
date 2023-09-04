@@ -1,1 +1,1 @@
-This is a test file
+This project contains design pattern programs implemented in cPP.
